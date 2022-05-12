@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/ammarrqureshi/nft-card.git)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Live Site URL: [Vercel](https://nft-card-ten-gilt.vercel.app/)
 
 ## My process
 
